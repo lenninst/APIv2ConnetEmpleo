@@ -1,0 +1,6 @@
+@ConnecEmpleoAPI_HostAddress = http://localhost:5082
+
+GET {{ConnecEmpleoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commons\Bases\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Persistences\Context\" />
+    <Folder Include="Persistences\Interfaces\" />
+    <Folder Include="Persistences\Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConnectEmpleo.Domain\ConnectEmpleo.Domain.csproj" />
+    <ProjectReference Include="..\ConnetEmpleo.Utilities\ConnetEmpleo.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commons\Base\" />
+    <Folder Include="Dtos\Response\" />
+    <Folder Include="Dtos\Request\" />
+    <Folder Include="Extensions\Shared\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Mapper\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CnEmpleo.Infrastructure\CnEmpleo.Infrastructure.csproj" />
+    <ProjectReference Include="..\ConnectEmpleo.Domain\ConnectEmpleo.Domain.csproj" />
+    <ProjectReference Include="..\ConnetEmpleo.Utilities\ConnetEmpleo.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
