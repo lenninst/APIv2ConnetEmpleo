@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectEmpleo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24c4470108e3d5c64ff001346d5aa2a2bb68a23")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectEmpleo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectEmpleo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
