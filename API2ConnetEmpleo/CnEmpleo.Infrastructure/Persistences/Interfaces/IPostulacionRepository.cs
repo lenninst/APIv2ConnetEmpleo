@@ -2,7 +2,7 @@
 
 namespace CnEmpleo.Infrastructure.Persistences.Interfaces
 {
-   public interface IPostulacionRepository : IGenericRepository<Postulacione>
+   public interface IPostulacionRepository : IGenericRepository<Postulacion>
    {
    }
 }

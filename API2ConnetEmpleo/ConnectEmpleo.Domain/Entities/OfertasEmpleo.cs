@@ -25,5 +25,5 @@ public partial class OfertasEmpleo : BaseEntity
 
    public virtual ICollection<Favorito> Favoritos { get; set; } = new List<Favorito>();
 
-   public virtual ICollection<Postulacione> Postulaciones { get; set; } = new List<Postulacione>();
+   public virtual ICollection<Postulacion> Postulaciones { get; set; } = new List<Postulacion>();
 }

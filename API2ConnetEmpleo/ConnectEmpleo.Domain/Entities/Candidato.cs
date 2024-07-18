@@ -1,8 +1,12 @@
 ﻿
+using System.ComponentModel.DataAnnotations;
+
 namespace ConnectEmpleo.Domain.Entities;
 
 public partial class Candidato : BaseEntity
 {
+
+   [Key]
    public string? Nombre { get; set; }
 
    public string? Apellido { get; set; }
@@ -29,7 +33,7 @@ public partial class Candidato : BaseEntity
 
    public virtual ICollection<FormacionAcademica> FormacionAcademicas { get; set; } = new List<FormacionAcademica>();
 
-   public virtual ICollection<Postulacione> Postulaciones { get; set; } = new List<Postulacione>();
+   public virtual ICollection<Postulacion> Postulaciones { get; set; } = new List<Postulacion>();
 
    public virtual User? UserFkNavigation { get; set; }
 }

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 {
-   public class PostulacionConfiguration : IEntityTypeConfiguration<Postulacione>
+   public class PostulacionConfiguration : IEntityTypeConfiguration<Postulacion>
    {
-      public void Configure(EntityTypeBuilder<Postulacione> builder)
+      public void Configure(EntityTypeBuilder<Postulacion> builder)
       {
 
          builder.HasKey(e => e.Id).HasName("PK__Postulac__37EBAEC17E6F4DFB");

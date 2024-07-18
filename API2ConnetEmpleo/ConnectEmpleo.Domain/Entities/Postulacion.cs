@@ -1,6 +1,6 @@
 ﻿namespace ConnectEmpleo.Domain.Entities;
 
-public partial class Postulacione : BaseEntity
+public partial class Postulacion : BaseEntity
 {
 
    public int CandidatosFk { get; set; }

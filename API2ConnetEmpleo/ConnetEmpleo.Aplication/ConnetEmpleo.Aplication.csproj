@@ -7,14 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commons\Base\" />
-    <Folder Include="Dtos\Response\" />
-    <Folder Include="Dtos\Request\" />
     <Folder Include="Extensions\Shared\" />
-    <Folder Include="Interface\" />
-    <Folder Include="Mapper\" />
     <Folder Include="Validators\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
   </ItemGroup>
 
   <ItemGroup>

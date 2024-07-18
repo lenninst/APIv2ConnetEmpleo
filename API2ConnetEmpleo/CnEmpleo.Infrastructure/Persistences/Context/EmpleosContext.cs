@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection;
-using ConnectEmpleo.Domain.Entities;
+﻿using ConnectEmpleo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace ConnectEmpleo.API.Entities;
 
@@ -29,23 +27,19 @@ public partial class EmpleosContext : DbContext
 
     public virtual DbSet<OfertasEmpleo> OfertasEmpleos { get; set; }
 
-    public virtual DbSet<Postulacione> Postulaciones { get; set; }
+    public virtual DbSet<Postulacion> Postulaciones { get; set; }
 
 
     public virtual DbSet<User> Users { get; set; }
 
 
-  /*  protected override void OnModelCreating(ModelBuilder modelBuilder)
+   protected override void OnModelCreating(ModelBuilder modelBuilder)
    {
       modelBuilder.HasAnnotation("Relational:Collation", "Modern_Spanish_CI_AS");
       modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
-      // modelBuilder.Entity<Actividad>().Property(a => a.Id).HasColumnName("IdActividad");
-
-
-
+    
+      base.OnModelCreating(modelBuilder);
    }
-      
-    partial void OnModelCreatingPartial(ModelBuilder modelBuilder); */
 
 }
