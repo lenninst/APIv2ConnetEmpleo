@@ -17,6 +17,8 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("ofertasEmpleos", "mydb");
 
+         builder.Property(e => e.Id).HasColumnName("IdOfertasEmpleos").ValueGeneratedNever();
+
          builder.Property(e => e.Aniosexperiencia).HasColumnName("aniosexperiencia");
          builder.Property(e => e.Descripcion)
              .HasMaxLength(600)

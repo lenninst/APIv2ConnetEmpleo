@@ -8,8 +8,34 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "candidatoId",
+        "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "candidatoId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "UpdateCandidato",
+    "RelativePath": "api/Candidato/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "candidatoRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.CandidatoRequestDto",
         "IsRequired": true
       }
     ],
@@ -26,16 +52,32 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ConnecEmpleoAPI.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "GetAllDetailsCandidatos",
+    "RelativePath": "api/Candidato/candidato/detalles",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.ExperienciaLaboralController",
+    "Method": "GetExperienciaLaboralByCandidatoId",
+    "RelativePath": "api/ExperienciaLaboral/{candidatoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConnecEmpleoAPI.WeatherForecast, ConnectEmpleo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConnectEmpleo.Domain.Entities.ExperienciaLaboral, ConnectEmpleo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -1,4 +1,7 @@
-﻿using ConnetEmpleo.Aplication.Interface;
+﻿using AutoMapper;
+using ConnetEmpleo.Aplication.Dtos.Request;
+using ConnetEmpleo.Aplication.Dtos.Response;
+using ConnetEmpleo.Aplication.Interface;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConnectEmpleo.API.Controllers
@@ -8,15 +11,15 @@ namespace ConnectEmpleo.API.Controllers
    public class CandidatoController : Controller
    {
       private readonly ICandidatoAplication _candidatoAplication;
-      public CandidatoController(ICandidatoAplication candidatoAplication)
+      public CandidatoController(ICandidatoAplication candidatoAplication, IMapper mapper)
       {
          _candidatoAplication = candidatoAplication;
       }
 
       [HttpGet("{candidatoId:int}")]
-      public async Task<IActionResult> CandidatoById(int candidatoId)
+      public async Task<IActionResult> CandidatoById(int id)
       {
-         var response = await _candidatoAplication.GetCandidatoById(candidatoId);
+         var response = await _candidatoAplication.GetCandidatoById(id);
          return Ok(response);
       }
 
@@ -24,10 +27,25 @@ namespace ConnectEmpleo.API.Controllers
       public async Task<IActionResult> GetAllCandidatos()
       {
          var response = await _candidatoAplication.GetAllCandidatos();
+         return Ok(response);
+      }
 
-         if(response.IsSuccess)
+      [HttpPut("{id}")]
+      public async Task<IActionResult> UpdateCandidato(int id, [FromBody] CandidatoRequestDto candidatoRequestDto)
+      {
+         var response  = await _candidatoAplication.UpdateCandidato(id, candidatoRequestDto);
+         return Ok(response);
+      }
+
+
+      [HttpGet("candidato/detalles")]
+      public async Task<IActionResult> GetAllDetailsCandidatos()
+      {
+         var response = await _candidatoAplication.GetAllCandidatos();
+
+         if (response.IsSuccess)
          {
-            return Ok(response.Data);
+            return Ok(response);
          }
          else
          {
@@ -35,5 +53,5 @@ namespace ConnectEmpleo.API.Controllers
          }
       }
 
-    }
+   }
 }

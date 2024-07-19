@@ -12,6 +12,8 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("empresas", "mydb");
 
+         builder.Property(e => e.Id).HasColumnName("idempresas").ValueGeneratedNever();
+
          builder.Property(e => e.Id).HasColumnName("idempresas");
          builder.Property(e => e.Cantidadempleados).HasColumnName("cantidadempleados");
          builder.Property(e => e.Descripcion)

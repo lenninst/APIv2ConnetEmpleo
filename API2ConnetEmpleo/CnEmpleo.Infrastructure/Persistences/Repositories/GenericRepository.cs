@@ -2,29 +2,40 @@
 using ConnectEmpleo.API.Entities;
 using ConnectEmpleo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace CnEmpleo.Infrastructure.Persistences.Repositories
 {
    public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
    {
       private readonly EmpleosContext _context;
-      private readonly DbSet<T> _entity;
+      private readonly DbSet<T> _dbSet;
 
       public GenericRepository(EmpleosContext context)
       {
          _context = context ?? throw new ArgumentNullException(nameof(context));
-         _entity = _context.Set<T>() ?? throw new ArgumentNullException(nameof(_entity));
+         _dbSet = _context.Set<T>() ?? throw new ArgumentNullException(nameof(_dbSet));
       }
 
-      public async Task<IEnumerable<T>> GetAllAsync()
+      public async Task<IEnumerable<T>> GetAllAsync(
+         Func<IQueryable<T>, IQueryable<T>> include = null)
       {
-         var allcontent = await _entity.AsNoTracking().ToListAsync();
-         return allcontent;
+         IQueryable<T> query = _dbSet.AsNoTracking();
+
+         if (include != null)
+         {
+            query = include(query);
+         }
+
+         return await query.ToListAsync();
       }
+
+
 
       public async Task<T> GetByIdAsync(int id)
       {
-         var getById = await _entity.AsNoTracking().FirstOrDefaultAsync(x => x.Id.Equals(id));
+         var getById = await _dbSet.AsNoTracking().FirstOrDefaultAsync(x => x.Id.Equals(id));
          return getById!;
       }
 
@@ -48,12 +59,14 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
          T entity = await GetByIdAsync(id);
          if (entity != null && id > 0)
          {
-            _entity.Remove(entity);
+            _dbSet.Remove(entity);
             await _context.SaveChangesAsync();
             return true;
          }
          return false;
       }
+
+      
    }
 }
 

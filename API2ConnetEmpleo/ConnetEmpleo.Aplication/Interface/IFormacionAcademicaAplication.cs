@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConnetEmpleo.Aplication.Interface
 {
-   internal class IFormacionAcademica
+   internal class IFormacionAcademicaAplication
    {
    }
 }

@@ -13,12 +13,12 @@ namespace CnEmpleo.Infrastructure.Persistences.Interfaces
       IExperienciaLaboralRepository ExperienciaLaboralRepository { get; }
       IFavoritoRepository FavoritoRepository { get; }
       IFormacionAcademicaRepository FormacionAcademicaRepository { get; }
-      IOfertasEmpleoRepository OfertasEmpleo { get; }
-      IPostulacionRepository Postulacion { get; }
+      IOfertasEmpleoRepository OfertasEmpleoRepository { get; }
+      IPostulacionRepository PostulacionRepository { get; }
       IUserRepository UserRepository { get; }
-      
-      void SaveChange();
-      Task SaveChangeAsync();
-      
+
+      void SaveChanges();
+      Task SaveChangesAsync();
+
    }
 }

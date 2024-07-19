@@ -18,6 +18,8 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("Postulaciones", "mydb");
 
+         builder.Property(e => e.Id).HasColumnName("IdPostulaciones").ValueGeneratedNever();
+
          builder.Property(e => e.CandidatosFk).HasColumnName("CandidatosFK");
          builder.Property(e => e.EstadoPostulacion)
              .HasMaxLength(50)

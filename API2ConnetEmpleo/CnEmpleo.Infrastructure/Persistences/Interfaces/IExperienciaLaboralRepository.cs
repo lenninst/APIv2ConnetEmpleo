@@ -4,5 +4,6 @@ namespace CnEmpleo.Infrastructure.Persistences.Interfaces
 {
    public interface IExperienciaLaboralRepository : IGenericRepository<ExperienciaLaboral>
    {
+      Task<IEnumerable<ExperienciaLaboral>> ObtenerExperienciasPorCandidatoIdAsync(int candidatoId);
    }
 }

@@ -1,12 +1,10 @@
 ﻿
-using System.ComponentModel.DataAnnotations;
 
 namespace ConnectEmpleo.Domain.Entities;
 
 public partial class Candidato : BaseEntity
 {
 
-   [Key]
    public string? Nombre { get; set; }
 
    public string? Apellido { get; set; }

@@ -12,6 +12,8 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("experienciaLaboral", "mydb");
 
+         builder.Property(e => e.Id).HasColumnName("idexperienciaLaboral").ValueGeneratedNever();
+
          builder.Property(e => e.Id).HasColumnName("idexperienciaLaboral");
          builder.Property(e => e.AniosExperiencia).HasColumnName("aniosExperiencia");
          builder.Property(e => e.CandidatosFk).HasColumnName("CandidatosFK");

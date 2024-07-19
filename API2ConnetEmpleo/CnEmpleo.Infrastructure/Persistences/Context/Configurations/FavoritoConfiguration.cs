@@ -11,6 +11,8 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
          builder.HasKey(e => e.Id).HasName("PK__favorito__8D50056984CB6A72");
 
          builder.ToTable("favoritos", "mydb");
+         
+         builder.Property(e => e.Id).HasColumnName("idfavoritos").ValueGeneratedNever();
 
          builder.Property(e => e.Id).HasColumnName("idfavoritos");
          builder.Property(e => e.CandidatosFk).HasColumnName("CandidatosFK");
