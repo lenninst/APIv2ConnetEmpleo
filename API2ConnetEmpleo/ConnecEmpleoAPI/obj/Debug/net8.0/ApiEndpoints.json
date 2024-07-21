@@ -2,7 +2,7 @@
   {
     "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
     "Method": "CandidatoById",
-    "RelativePath": "api/Candidato/{candidatoId}",
+    "RelativePath": "api/Candidato/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,11 +10,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "candidatoId",
-        "Type": "",
         "IsRequired": true
       }
     ],
@@ -86,5 +81,26 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.ExperienciaLaboralController",
+    "Method": "AddExperienciaLaboral",
+    "RelativePath": "api/ExperienciaLaboral/{candidatoId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "experienciaLaboralRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.ExperienciaLaboralRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

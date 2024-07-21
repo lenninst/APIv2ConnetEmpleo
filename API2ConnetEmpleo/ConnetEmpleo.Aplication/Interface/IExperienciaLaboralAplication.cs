@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ConnetEmpleo.Aplication.Commons.Base;
+using ConnetEmpleo.Aplication.Dtos.Request;
+using ConnetEmpleo.Aplication.Dtos.Response;
 
 namespace ConnetEmpleo.Aplication.Interface
 {
-   internal class IExperienciaLaboralAplication
+   public interface IExperienciaLaboralAplication
    {
+      Task<BaseResponse<bool>> AddExperienciaLaboralWithCandidatoId(int id, ExperienciaLaboralRequestDto experienciaLaboralRequestDtol);
    }
 }

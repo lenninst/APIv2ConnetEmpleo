@@ -13,7 +13,7 @@ namespace ConnetEmpleo.Aplication.Services
       private readonly ICandidatoRepository _candidatoRepository;
       private readonly IMapper _mapper;
       private readonly IUnitOfWork _unitOfWork;
-      public CandidatoAplication (
+      public CandidatoAplication(
          ICandidatoRepository candidatoRepository,
          IMapper mapper,
          IUnitOfWork unitOfWork

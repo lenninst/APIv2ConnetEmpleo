@@ -36,6 +36,8 @@ namespace ConnetEmpleo.Aplication.Extensions
          // Registro de aplicaciones
          services.AddScoped<ICandidatoAplication, CandidatoAplication>();
 
+         services.AddScoped<IExperienciaLaboralAplication, ExperienciaLaboralAplication>();
+
          return services;
       }
    }

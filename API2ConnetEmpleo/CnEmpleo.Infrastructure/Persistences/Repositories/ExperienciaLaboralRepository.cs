@@ -13,11 +13,18 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
       {
          _context = context;
       }
-      public async Task<IEnumerable<ExperienciaLaboral>> ObtenerExperienciasPorCandidatoIdAsync(int candidatoId)
+      public async Task<IEnumerable<ExperienciaLaboral>> GetExperienciaLaboral(int candidatoId)
       {
          return await _context.ExperienciaLaborals
          .Where(e => e.CandidatosFk == candidatoId)
          .ToListAsync();
+      }
+
+      public async Task<bool> AddExperienciaLaboral(ExperienciaLaboral experienciaLaboral) 
+      {
+        if (experienciaLaboral == null)
+            throw new ArgumentException(nameof(experienciaLaboral));
+        return await RegisterAsync(experienciaLaboral);
       }
 
    }
