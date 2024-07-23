@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using CnEmpleo.Infrastructure.Persistences.Interfaces;
+﻿using CnEmpleo.Infrastructure.Persistences.Interfaces;
 using CnEmpleo.Infrastructure.Persistences.Repositories;
 using ConnectEmpleo.API.Entities;
 using ConnetEmpleo.Aplication.Interface;
@@ -37,6 +36,19 @@ namespace ConnetEmpleo.Aplication.Extensions
          services.AddScoped<ICandidatoAplication, CandidatoAplication>();
 
          services.AddScoped<IExperienciaLaboralAplication, ExperienciaLaboralAplication>();
+         // Registro de IFormacionAcademicaRepository
+         services.AddScoped<IFormacionAcademicaRepository, FormacionAcademicaRepository>();
+
+         // Registro de IFormacionAcademicaAplication
+         services.AddScoped<IFormacionAcademicaAplication, FormacionAcademicaAplication>();
+
+         // Registro de IOfertasEmpleoRepository
+         services.AddScoped<IOfertasEmpleoRepository, OfertasEmpleoRepository>();
+
+         // Registro de IOferasEmpleoAplication
+         services.AddScoped<IOfertaEmpleoAplication, OfertaEmpleoAplication>();
+
+         services.AddScoped<IEmpresaRepository, EmpresaRepository>();
 
          return services;
       }

@@ -1,15 +1,10 @@
 ﻿using ConnectEmpleo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 {
-   public class OfertaEmpleoConfiguration : IEntityTypeConfiguration<OfertasEmpleo>
+    public class OfertaEmpleoConfiguration : IEntityTypeConfiguration<OfertasEmpleo>
    {
       public void Configure(EntityTypeBuilder <OfertasEmpleo> builder)
       {
@@ -17,7 +12,7 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("ofertasEmpleos", "mydb");
 
-         builder.Property(e => e.Id).HasColumnName("IdOfertasEmpleos").ValueGeneratedNever();
+         builder.Property(e => e.Id).HasColumnName("IdOfertasEmpleos");
 
          builder.Property(e => e.Aniosexperiencia).HasColumnName("aniosexperiencia");
          builder.Property(e => e.Descripcion)

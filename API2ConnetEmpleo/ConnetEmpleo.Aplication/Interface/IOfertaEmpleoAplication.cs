@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ConnetEmpleo.Aplication.Commons.Base;
+using ConnetEmpleo.Aplication.Dtos.Request;
 
 namespace ConnetEmpleo.Aplication.Interface
 {
-   internal class IOfertaEmpleoAplication
+   public interface IOfertaEmpleoAplication
    {
+      Task<BaseResponse<bool>> AddOfertaEmpleoWhitEmpresaId(int id,
+       OfertaEmpleoRequestDto ofertaEmpleoResquestDto);
+
    }
 }

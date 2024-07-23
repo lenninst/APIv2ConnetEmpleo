@@ -102,5 +102,47 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.FormacionAcademicaController",
+    "Method": "AddFormacionAcademica",
+    "RelativePath": "api/FormacionAcademica/{candidatoId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "formacionAcademicaRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.FormacionAcademicaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
+    "Method": "AddOfertaEmpleo",
+    "RelativePath": "api/OfertaEmpleo/{empresaId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ofertaEmpleoRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.OfertaEmpleoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

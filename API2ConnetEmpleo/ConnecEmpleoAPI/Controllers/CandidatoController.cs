@@ -1,12 +1,11 @@
 ﻿using AutoMapper;
 using ConnetEmpleo.Aplication.Dtos.Request;
-using ConnetEmpleo.Aplication.Dtos.Response;
 using ConnetEmpleo.Aplication.Interface;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConnectEmpleo.API.Controllers
 {
-   [Route("api/[controller]")]
+    [Route("api/[controller]")]
    [ApiController]
    public class CandidatoController : Controller
    {

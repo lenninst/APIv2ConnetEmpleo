@@ -25,7 +25,7 @@ namespace ConnetEmpleo.Aplication.Mapper
          CreateMap<ExperienciaLaboralRequestDto, ExperienciaLaboral>();
 
 
-         CreateMap<ExperienciaLaboral, ExperienciaLaboralResponseDto>();
+         //CreateMap<ExperienciaLaboral, ExperienciaLaboralResponseDto>();
 
       }
    }

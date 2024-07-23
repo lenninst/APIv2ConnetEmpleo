@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ConnetEmpleo.Aplication.Commons.Base;
+using ConnetEmpleo.Aplication.Dtos.Request;
 
 namespace ConnetEmpleo.Aplication.Interface
 {
-   internal class IFormacionAcademicaAplication
+   public interface IFormacionAcademicaAplication
    {
+      Task<BaseResponse<bool>> AddFormacionAcademicaWithCandidatoId(int id, FormacionAcademicaRequestDto formacionAcademicaRequestDto);
    }
 }

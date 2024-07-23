@@ -12,7 +12,7 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("formacionAcademica", "mydb");
 
-         builder.Property(e => e.Id).HasColumnName("idformacionAcademica").ValueGeneratedNever();
+         //builder.Property(e => e.Id).HasColumnName("idformacionAcademica").ValueGeneratedNever();
 
          builder.Property(e => e.Id).HasColumnName("idformacionAcademica");
          builder.Property(e => e.CandidatosFk).HasColumnName("CandidatosFK");

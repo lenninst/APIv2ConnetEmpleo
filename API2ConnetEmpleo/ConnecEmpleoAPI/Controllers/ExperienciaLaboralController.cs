@@ -33,7 +33,8 @@ namespace ConnectEmpleo.API.Controllers
       }
 
       [HttpPost("{candidatoId:int}")]
-      public async Task<IActionResult> AddExperienciaLaboral(int candidatoId, [FromBody] ExperienciaLaboralRequestDto experienciaLaboralRequestDto)
+      public async Task<IActionResult> AddExperienciaLaboral(int candidatoId, 
+         [FromBody] ExperienciaLaboralRequestDto experienciaLaboralRequestDto)
       {
          var response = await _experienciaLaboralAplication.AddExperienciaLaboralWithCandidatoId(candidatoId, experienciaLaboralRequestDto);
          return Ok(response);

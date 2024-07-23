@@ -1,8 +1,6 @@
-﻿using ConnectEmpleo.Domain.Entities;
-
-namespace ConnetEmpleo.Aplication.Dtos.Request
+﻿namespace ConnetEmpleo.Aplication.Dtos.Request
 {
-  public class ExperienciaLaboralRequestDto
+    public class ExperienciaLaboralRequestDto
    {
       public string? Puesto { get; set; }
 

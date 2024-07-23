@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConnetEmpleo.Aplication.Interface
+﻿namespace ConnetEmpleo.Aplication.Interface
 {
-   internal class IPostulacionAplication
+    internal class IPostulacionAplication
    {
    }
 }

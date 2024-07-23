@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectEmpleo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a8b8b9c1e6b62ece2795b4cbbd88e1a439d1e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b38b7822af38c174bdd2375e35f6bd8c75d1eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectEmpleo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectEmpleo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

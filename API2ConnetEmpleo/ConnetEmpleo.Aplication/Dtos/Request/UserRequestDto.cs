@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConnetEmpleo.Aplication.Dtos.Request
+﻿namespace ConnetEmpleo.Aplication.Dtos.Request
 {
-   public class UserRequestDto
+    public class UserRequestDto
    {
       public string UserName { get; set; }
       public string Email { get; set; }

@@ -25,7 +25,9 @@ namespace ConnetEmpleo.Aplication.Services
          _experienciaLaboralRepository = experienciaLaboralRepository;
         }
 
-      public async Task<BaseResponse<bool>> AddExperienciaLaboralWithCandidatoId(int id, ExperienciaLaboralRequestDto experienciaLaboralRequestDto)
+      public async Task<BaseResponse<bool>> AddExperienciaLaboralWithCandidatoId(
+         int id, ExperienciaLaboralRequestDto experienciaLaboralRequestDto
+         )
       {
          var response = new BaseResponse<bool>();
 

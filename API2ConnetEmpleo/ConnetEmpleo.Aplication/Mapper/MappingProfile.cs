@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using ConnetEmpleo.Aplication.Mapper;
+using ConnetEmpleo.Aplication.Mapper.MapperProfiles;
 
 namespace ConnetEmpleo.Application.Mapper
 {
@@ -11,6 +12,7 @@ namespace ConnetEmpleo.Application.Mapper
          {
             cfg.AddProfile<CandidatoMappingProfile>();
             cfg.AddProfile<ExperienciaLMappingProfile>();
+            cfg.AddProfile<OfertaEMappingProfile>();
          });
       }
    }
