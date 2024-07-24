@@ -13,6 +13,7 @@ namespace ConnetEmpleo.Application.Mapper
             cfg.AddProfile<CandidatoMappingProfile>();
             cfg.AddProfile<ExperienciaLMappingProfile>();
             cfg.AddProfile<OfertaEMappingProfile>();
+            cfg.AddProfile<PostulacionMappingProfile>();
          });
       }
    }

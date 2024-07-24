@@ -144,5 +144,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
+    "Method": "Postular",
+    "RelativePath": "api/OfertaEmpleo/Postular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postulacionRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.PostulacionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -15,7 +15,6 @@ builder.Services.AddInjectionApplication(builder.Configuration);
 builder.Services.AddInyectionInfrastructure(builder.Configuration);
 
 
-builder.Services.AddScoped<IExperienciaLaboralRepository, ExperienciaLaboralRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

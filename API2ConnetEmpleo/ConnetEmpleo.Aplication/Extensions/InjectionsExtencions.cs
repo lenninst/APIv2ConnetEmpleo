@@ -3,6 +3,8 @@ using CnEmpleo.Infrastructure.Persistences.Repositories;
 using ConnectEmpleo.API.Entities;
 using ConnetEmpleo.Aplication.Interface;
 using ConnetEmpleo.Aplication.Services;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -29,13 +31,21 @@ namespace ConnetEmpleo.Aplication.Extensions
          // unit of work
          services.AddTransient<IUnitOfWork, UnitOfWork>();
 
+         // Configuración de FluentValidation
+         services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+         services.AddFluentValidationAutoValidation();
+
          // Registro de repositorios
          services.AddScoped<ICandidatoRepository, CandidatoRepository>();
 
          // Registro de aplicaciones
          services.AddScoped<ICandidatoAplication, CandidatoAplication>();
 
+
+         services.AddScoped<IExperienciaLaboralRepository, ExperienciaLaboralRepository>();
+
          services.AddScoped<IExperienciaLaboralAplication, ExperienciaLaboralAplication>();
+
          // Registro de IFormacionAcademicaRepository
          services.AddScoped<IFormacionAcademicaRepository, FormacionAcademicaRepository>();
 
@@ -49,6 +59,10 @@ namespace ConnetEmpleo.Aplication.Extensions
          services.AddScoped<IOfertaEmpleoAplication, OfertaEmpleoAplication>();
 
          services.AddScoped<IEmpresaRepository, EmpresaRepository>();
+
+         services.AddScoped<IPostulacionRepository, PostulacionRepository>();
+
+         services.AddScoped<IPostulacionAplication, PostulacionAplication>();
 
          return services;
       }

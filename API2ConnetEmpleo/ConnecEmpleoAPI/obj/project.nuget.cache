@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6BEWlIB5KyKNnzJWmU5gutCeWwcha+Yn4rAciicxA6CcE6/Ss0fYEkFh78HAcssA+MTiGs1qKnc/TeI+xvqxDQ==",
+  "dgSpecHash": "bkBPbgepa25aTpUrfWL7VVE5OXgfnouG1TzGHqJmEeAcYzwsHwMflWt1fWRKtqTgMiNOnIyxOM8OzuEOnaLnxQ==",
   "success": true,
   "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\kanguro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\kanguro\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\kanguro\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\kanguro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

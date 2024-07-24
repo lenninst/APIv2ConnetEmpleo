@@ -4,6 +4,7 @@ using ConnectEmpleo.Domain.Entities;
 using ConnetEmpleo.Aplication.Commons.Base;
 using ConnetEmpleo.Aplication.Dtos.Request;
 using ConnetEmpleo.Aplication.Interface;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 
 namespace ConnetEmpleo.Aplication.Services
@@ -13,16 +14,19 @@ namespace ConnetEmpleo.Aplication.Services
       private readonly IEmpresaRepository _empresaRepository;
       private readonly IMapper _mapper;
       private readonly IOfertasEmpleoRepository _ofertaEmpleoRepository;
+      private readonly IValidator<OfertaEmpleoRequestDto> _validator;
 
         public OfertaEmpleoAplication(
            IEmpresaRepository empresaRepository, 
            IMapper mapper,
-           IOfertasEmpleoRepository ofertaEmpleoRepository
+           IOfertasEmpleoRepository ofertaEmpleoRepository,
+           IValidator<OfertaEmpleoRequestDto> validator
            )
         {
          _empresaRepository = empresaRepository;
          _mapper = mapper;
          _ofertaEmpleoRepository = ofertaEmpleoRepository;
+         _validator = validator;
             
         }
       public async Task<BaseResponse<bool>> AddOfertaEmpleoWhitEmpresaId(int id, OfertaEmpleoRequestDto ofertaEmpleoRequestDto)
@@ -36,6 +40,16 @@ namespace ConnetEmpleo.Aplication.Services
             {
                response.IsSuccess = false;
                response.Message = "Empresa no registrada";
+               return response;
+            }
+            
+            //validar dto 
+            var validationResult = await _validator.ValidateAsync(ofertaEmpleoRequestDto);
+            if (!validationResult.IsValid)
+            {
+               response.IsSuccess = false;
+               response.Message = "Datos de la oferta de empleo no válidos";
+               response.Message = validationResult.Errors.First().ErrorMessage;
                return response;
             }
 

@@ -2,8 +2,6 @@
 using ConnectEmpleo.API.Entities;
 using ConnectEmpleo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System.Linq.Expressions;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace CnEmpleo.Infrastructure.Persistences.Repositories
 {
@@ -30,7 +28,6 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
 
          return await query.ToListAsync();
       }
-
 
 
       public async Task<T> GetByIdAsync(int id)

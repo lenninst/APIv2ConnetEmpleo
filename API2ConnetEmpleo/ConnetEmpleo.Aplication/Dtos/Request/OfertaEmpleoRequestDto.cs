@@ -10,7 +10,7 @@
 
       public string? Ubicacion { get; set; }
 
-      public DateOnly? Fechapublicacion { get; set; }
+      public string? Fechapublicacion { get; set; }
 
       public int? Aniosexperiencia { get; set; }
 
