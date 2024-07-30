@@ -13,12 +13,10 @@
       public string? LugarDeResidencia { get; set; }
       public int? UserFk { get; set; }
       public string? RutasHv { get; set; }
-
       public IEnumerable<ExperienciaLaboralResponseDto> ExperienciaLaboral { get; set; } = new List<ExperienciaLaboralResponseDto>();
       public IEnumerable<FavoritoResponseDto> Favoritos { get; set; } = new List<FavoritoResponseDto>();
       public IEnumerable<FormacionAcademicaResponseDto> FormacionAcademicas { get; set; } = new List<FormacionAcademicaResponseDto>();
       public IEnumerable<PostulacionResponseDto> Postulaciones { get; set; } = new List<PostulacionResponseDto>();
-
 
    }
 }

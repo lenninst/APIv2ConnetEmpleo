@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 ﻿using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+=======
+﻿
+using FluentValidation.Results;
+>>>>>>> 6a3194b (feat: agredado user register controller)
 
 namespace ConnetEmpleo.Aplication.Commons.Base
 {

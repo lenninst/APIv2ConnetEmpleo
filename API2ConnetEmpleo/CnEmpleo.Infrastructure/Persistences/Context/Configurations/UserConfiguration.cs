@@ -1,11 +1,14 @@
 ﻿using ConnectEmpleo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+=======
+>>>>>>> 6a3194b (feat: agredado user register controller)
 
 namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 {
@@ -17,7 +20,13 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("users", "mydb");
 
+<<<<<<< HEAD
          builder.Property(e => e.Id).HasColumnName("idusers").ValueGeneratedNever();
+=======
+         builder.Property(e => e.Id)
+            .HasColumnName("idusers")
+            .ValueGeneratedOnAdd(); 
+>>>>>>> 6a3194b (feat: agredado user register controller)
 
          builder.Property(e => e.Id).HasColumnName("idusers");
          builder.Property(e => e.Email)

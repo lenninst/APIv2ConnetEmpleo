@@ -5,7 +5,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CnEmpleo.Infrastructure.Persistences.Repositories
 {
+<<<<<<< HEAD
    public class CandidatoRepository : GenericRepository<Candidato>, ICandidatoRepository
+=======
+   public class CandidatoRepository : GenericRepository<Candidato>,
+      ICandidatoRepository
+>>>>>>> 6a3194b (feat: agredado user register controller)
    {
       private readonly EmpleosContext _context;
       public CandidatoRepository(EmpleosContext context) : base(context)

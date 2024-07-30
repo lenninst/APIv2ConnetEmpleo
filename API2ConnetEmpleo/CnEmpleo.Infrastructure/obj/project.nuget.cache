@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wqXSTGhiZGXX+eiBNJltCRMzeP7ac/OnQ4iyjHH6QbmaU3lYB52f8ghT4gq/30A4D7+69PQovt+mJCIO2grrmQ==",
+  "dgSpecHash": "js5NbTVlK2Ld1+jmnbieLCGQHM8w2TRJ2JbrRQnnJXLW8d03jciNgMtrWMYiknfxrNIR7L0+9GYe71sh/2TiEg==",
   "success": true,
-  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
+  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kanguro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -60,5 +60,12 @@
     "C:\\Users\\kanguro\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

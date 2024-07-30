@@ -33,7 +33,10 @@ namespace ConnetEmpleo.Aplication.Services
 
          try
          {
+<<<<<<< HEAD
             // Verificar si el candidato está registrado
+=======
+>>>>>>> 6a3194b (feat: agredado user register controller)
             var candidato = await _candidatoRepository.GetByIdAsync(id);
             if (candidato == null)
             {
@@ -42,11 +45,17 @@ namespace ConnetEmpleo.Aplication.Services
                return response;
             }
 
+<<<<<<< HEAD
             // Mapear el DTO a la entidad
             var experienciaLaboral = _mapper.Map<ExperienciaLaboral>(experienciaLaboralRequestDto);
             experienciaLaboral.CandidatosFk = id;  // Establecer el FK del candidato en la entidad
 
             // Registrar la experiencia laboral usando el método específico del repositorio
+=======
+            var experienciaLaboral = _mapper.Map<ExperienciaLaboral>(experienciaLaboralRequestDto);
+            experienciaLaboral.CandidatosFk = id;  // Establecer el FK del candidato en la entidad
+
+>>>>>>> 6a3194b (feat: agredado user register controller)
             var isAdded = await _experienciaLaboralRepository.AddExperienciaLaboral(experienciaLaboral);
 
             if (isAdded)

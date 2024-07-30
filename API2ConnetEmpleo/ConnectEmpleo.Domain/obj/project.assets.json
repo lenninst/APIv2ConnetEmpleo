@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
+      "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
       "projectName": "ConnectEmpleo.Domain",
-      "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
+      "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
       "packagesPath": "C:\\Users\\kanguro\\.nuget\\packages\\",
-      "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\obj\\",
+      "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kanguro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4176,5 +4176,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

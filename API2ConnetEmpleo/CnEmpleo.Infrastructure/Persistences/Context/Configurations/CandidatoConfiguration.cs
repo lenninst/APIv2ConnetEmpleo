@@ -12,9 +12,16 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
 
          builder.ToTable("candidatos", "mydb");
 
+<<<<<<< HEAD
          builder.Property(e => e.Id).HasColumnName("IdCandidatos").ValueGeneratedNever();
 
       builder.Property(e => e.Apellido)
+=======
+         builder.Property(e => e.Id).HasColumnName("IdCandidatos")
+            .ValueGeneratedOnAdd();
+
+         builder.Property(e => e.Apellido)
+>>>>>>> 6a3194b (feat: agredado user register controller)
              .HasMaxLength(45)
              .HasColumnName("apellido");
          builder.Property(e => e.Documentoid).HasColumnName("documentoid");

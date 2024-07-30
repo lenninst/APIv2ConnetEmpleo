@@ -22,12 +22,16 @@ namespace ConnetEmpleo.Aplication.Extensions
 
          services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
+<<<<<<< HEAD
          //context db 
+=======
+>>>>>>> 6a3194b (feat: agredado user register controller)
          services.AddDbContext<EmpleosContext>(
                  options => options.UseSqlServer(
                      configuration.GetConnectionString("Conexion"),
                      b => b.MigrationsAssembly(assembly)), ServiceLifetime.Transient);
 
+<<<<<<< HEAD
          // unit of work
          services.AddTransient<IUnitOfWork, UnitOfWork>();
 
@@ -39,6 +43,15 @@ namespace ConnetEmpleo.Aplication.Extensions
          services.AddScoped<ICandidatoRepository, CandidatoRepository>();
 
          // Registro de aplicaciones
+=======
+         services.AddTransient<IUnitOfWork, UnitOfWork>();
+
+         services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+         services.AddFluentValidationAutoValidation();
+
+         services.AddScoped<ICandidatoRepository, CandidatoRepository>();
+
+>>>>>>> 6a3194b (feat: agredado user register controller)
          services.AddScoped<ICandidatoAplication, CandidatoAplication>();
 
 
@@ -46,6 +59,7 @@ namespace ConnetEmpleo.Aplication.Extensions
 
          services.AddScoped<IExperienciaLaboralAplication, ExperienciaLaboralAplication>();
 
+<<<<<<< HEAD
          // Registro de IFormacionAcademicaRepository
          services.AddScoped<IFormacionAcademicaRepository, FormacionAcademicaRepository>();
 
@@ -56,6 +70,14 @@ namespace ConnetEmpleo.Aplication.Extensions
          services.AddScoped<IOfertasEmpleoRepository, OfertasEmpleoRepository>();
 
          // Registro de IOferasEmpleoAplication
+=======
+         services.AddScoped<IFormacionAcademicaRepository, FormacionAcademicaRepository>();
+
+         services.AddScoped<IFormacionAcademicaAplication, FormacionAcademicaAplication>();
+
+         services.AddScoped<IOfertasEmpleoRepository, OfertasEmpleoRepository>();
+
+>>>>>>> 6a3194b (feat: agredado user register controller)
          services.AddScoped<IOfertaEmpleoAplication, OfertaEmpleoAplication>();
 
          services.AddScoped<IEmpresaRepository, EmpresaRepository>();
@@ -64,6 +86,12 @@ namespace ConnetEmpleo.Aplication.Extensions
 
          services.AddScoped<IPostulacionAplication, PostulacionAplication>();
 
+<<<<<<< HEAD
+=======
+         services.AddScoped<IUserRepository, UserRepository>();
+         services.AddScoped<IUserAplication, UserAplication>();
+
+>>>>>>> 6a3194b (feat: agredado user register controller)
          return services;
       }
    }

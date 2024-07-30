@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {}
+    "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {}
   },
   "projects": {
-    "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {
+    "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
+        "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
         "projectName": "ConnectEmpleo.Domain",
-        "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
+        "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj",
         "packagesPath": "C:\\Users\\kanguro\\.nuget\\packages\\",
-        "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\APIConnetProyect\\API2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\obj\\",
+        "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanguro\\AppData\\Roaming\\NuGet\\NuGet.Config"

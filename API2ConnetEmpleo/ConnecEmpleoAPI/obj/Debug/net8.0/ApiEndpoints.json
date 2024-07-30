@@ -160,5 +160,24 @@
       }
     ],
     "ReturnTypes": []
+<<<<<<< HEAD
+=======
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.UserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+>>>>>>> 6a3194b (feat: agredado user register controller)
   }
 ]
