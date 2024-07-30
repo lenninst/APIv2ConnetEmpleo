@@ -1,0 +1,180 @@
+[
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "CandidatoById",
+    "RelativePath": "api/Candidato/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "UpdateCandidato",
+    "RelativePath": "api/Candidato/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "candidatoRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.CandidatoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "GetAllCandidatos",
+    "RelativePath": "api/Candidato/candidato",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.CandidatoController",
+    "Method": "GetAllDetailsCandidatos",
+    "RelativePath": "api/Candidato/candidato/detalles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.ExperienciaLaboralController",
+    "Method": "GetExperienciaLaboralByCandidatoId",
+    "RelativePath": "api/ExperienciaLaboral/{candidatoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConnectEmpleo.Domain.Entities.ExperienciaLaboral, ConnectEmpleo.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.ExperienciaLaboralController",
+    "Method": "AddExperienciaLaboral",
+    "RelativePath": "api/ExperienciaLaboral/{candidatoId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "experienciaLaboralRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.ExperienciaLaboralRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.FormacionAcademicaController",
+    "Method": "AddFormacionAcademica",
+    "RelativePath": "api/FormacionAcademica/{candidatoId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidatoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "formacionAcademicaRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.FormacionAcademicaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
+    "Method": "AddOfertaEmpleo",
+    "RelativePath": "api/OfertaEmpleo/{empresaId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ofertaEmpleoRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.OfertaEmpleoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
+    "Method": "Postular",
+    "RelativePath": "api/OfertaEmpleo/Postular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postulacionRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.PostulacionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequestDto",
+        "Type": "ConnetEmpleo.Aplication.Dtos.Request.UserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
