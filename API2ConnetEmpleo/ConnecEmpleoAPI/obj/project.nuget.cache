@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xL1V3rhQXMnDwyoaTOZ4SRxWDq9QJSDzGVEvPZYW0pjXFRAwKUlIHxcYIcgKGy9iYdAuWYuN1Eumvx4OUWLXmw==",
+  "dgSpecHash": "WpBW3VJHJF3bAPZ4DSwIjB1khkJEdBVSqit8o047J9+0qWAapGH9165XaZkwYaDF9cgqu4QZSX4HM97gmTshwg==",
   "success": true,
-  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
+  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kanguro\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -91,12 +91,5 @@
     "C:\\Users\\kanguro\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\kanguro\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnecEmpleoAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

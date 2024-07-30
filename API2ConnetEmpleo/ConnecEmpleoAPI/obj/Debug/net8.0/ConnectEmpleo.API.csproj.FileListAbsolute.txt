@@ -310,3 +310,14 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.genruntimeconfig.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ref\ConnectEmpleo.API.dll
 >>>>>>> 6a3194b (feat: agredado user register controller)
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.csproj.AssemblyReference.cache
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.AssemblyInfoInputs.cache
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.AssemblyInfo.cs
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.csproj.CoreCompileInputs.cache
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.sourcelink.json
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.dll
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\refint\ConnectEmpleo.API.dll
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnecEmpleoAPI\obj\Debug\net8.0\ConnectEmpleo.API.pdb

@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L/IIIe6oJuo6kzH31m22Qej7r0S88IrzOrj1T2T7elWExfe2KIls2wdi4o033gqw6c1DCdUtQvawGmrEaAeDPQ==",
+  "dgSpecHash": "mplf0f3RdZLPdHZ0y/DhuioZ7nZcLDQGoMxhsCeIphJ6hPJYauTkebjrApwFi2AZv3P/9BTvxs0ZwjX3Ne8Zqw==",
   "success": true,
-  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj",
+  "projectFilePath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

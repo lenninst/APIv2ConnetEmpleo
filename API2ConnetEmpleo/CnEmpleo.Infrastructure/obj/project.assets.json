@@ -2787,11 +2787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
+      "projectUniqueName": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
       "projectName": "CnEmpleo.Infrastructure",
-      "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
+      "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\kanguro\\.nuget\\packages\\",
-      "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\obj\\",
+      "outputPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kanguro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2806,11 +2806,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {
-              "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj"
+            "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj": {
+              "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj"
             },
-            "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj": {
-              "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj"
+            "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj": {
+              "projectPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Utilities\\ConnetEmpleo.Utilities.csproj"
             }
           }
         }
@@ -2848,13 +2848,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyecto_continuacion\\backkEndV3\\APIv3ConnetEmpleo-main\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

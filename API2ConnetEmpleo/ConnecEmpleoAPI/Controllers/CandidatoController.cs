@@ -7,11 +7,7 @@ namespace ConnectEmpleo.API.Controllers
 {
     [Route("api/[controller]")]
    [ApiController]
-<<<<<<< HEAD
-   public class CandidatoController : Controller
-=======
    public class CandidatoController : ControllerBase
->>>>>>> 6a3194b (feat: agredado user register controller)
    {
       private readonly ICandidatoAplication _candidatoAplication;
       public CandidatoController(ICandidatoAplication candidatoAplication, IMapper mapper)

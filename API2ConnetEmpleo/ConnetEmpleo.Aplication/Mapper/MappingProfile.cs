@@ -14,10 +14,7 @@ namespace ConnetEmpleo.Application.Mapper
             cfg.AddProfile<ExperienciaLMappingProfile>();
             cfg.AddProfile<OfertaEMappingProfile>();
             cfg.AddProfile<PostulacionMappingProfile>();
-<<<<<<< HEAD
-=======
             cfg.AddProfile<UserMappingProfile>();
->>>>>>> 6a3194b (feat: agredado user register controller)
          });
       }
    }

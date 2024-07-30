@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnetEmpleo.Aplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d79018d52e29f28a2697e17a34103d636123372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc4ac801313c5cfa5018cf71d2637d3f9799490")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnetEmpleo.Aplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnetEmpleo.Aplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
