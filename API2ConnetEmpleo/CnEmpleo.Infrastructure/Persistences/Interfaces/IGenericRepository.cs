@@ -1,6 +1,5 @@
 ﻿
 using ConnectEmpleo.Domain.Entities;
-using System.Linq.Expressions;
 
 namespace CnEmpleo.Infrastructure.Persistences.Interfaces
 {

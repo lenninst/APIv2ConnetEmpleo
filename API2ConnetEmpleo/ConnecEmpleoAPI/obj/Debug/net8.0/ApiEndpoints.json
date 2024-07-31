@@ -160,8 +160,6 @@
       }
     ],
     "ReturnTypes": []
-<<<<<<< HEAD
-=======
   },
   {
     "ContainingType": "ConnectEmpleo.API.Controllers.UserController",
@@ -178,6 +176,5 @@
       }
     ],
     "ReturnTypes": []
->>>>>>> 6a3194b (feat: agredado user register controller)
   }
 ]

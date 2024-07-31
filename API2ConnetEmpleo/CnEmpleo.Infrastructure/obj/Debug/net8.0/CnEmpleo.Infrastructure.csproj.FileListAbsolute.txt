@@ -16,8 +16,6 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\refint\CnEmpleo.Infrastructure.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\ref\CnEmpleo.Infrastructure.dll
-<<<<<<< HEAD
-=======
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.deps.json
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.pdb
@@ -35,7 +33,6 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\refint\CnEmpleo.Infrastructure.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\ref\CnEmpleo.Infrastructure.dll
->>>>>>> 6a3194b (feat: agredado user register controller)
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.csproj.AssemblyReference.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.AssemblyInfoInputs.cache
