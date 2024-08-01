@@ -1,6 +1,7 @@
 ﻿using CnEmpleo.Infrastructure.Persistences.Interfaces;
 using CnEmpleo.Infrastructure.Persistences.Repositories;
 using ConnectEmpleo.API.Entities;
+using ConnetEmpleo.Aplication.Extensions.Shared;
 using ConnetEmpleo.Aplication.Interface;
 using ConnetEmpleo.Aplication.Services;
 using FluentValidation;
@@ -12,7 +13,7 @@ using System.Reflection;
 
 namespace ConnetEmpleo.Aplication.Extensions
 {
-   public static class InjectionsExtensions
+    public static class InjectionsExtensions
    {
       public static IServiceCollection AddInjectionApplication(
           this IServiceCollection services, IConfiguration configuration)
@@ -57,6 +58,10 @@ namespace ConnetEmpleo.Aplication.Extensions
 
          services.AddScoped<IUserRepository, UserRepository>();
          services.AddScoped<IUserAplication, UserAplication>();
+
+         services.AddJwtConfiguration(configuration);
+
+         services.AddSwaggerConfiguration();
 
          return services;
       }

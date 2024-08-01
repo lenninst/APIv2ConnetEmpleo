@@ -1,7 +1,6 @@
 using ConnetEmpleo.Aplication.Extensions;
 using CnEmpleo.Infrastructure.Extensions;
-using CnEmpleo.Infrastructure.Persistences.Interfaces;
-using CnEmpleo.Infrastructure.Persistences.Repositories;
+using ConnectEmpleo.Domain.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +12,7 @@ builder.Logging.AddDebug();
 // Add services to the container.
 builder.Services.AddInjectionApplication(builder.Configuration);
 builder.Services.AddInyectionInfrastructure(builder.Configuration);
-
+builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
 
 builder.Services.AddControllers();
@@ -32,6 +31,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

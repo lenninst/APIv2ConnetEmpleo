@@ -8,7 +8,9 @@ namespace ConnetEmpleo.Aplication.Mapper.MapperProfiles
    {
       public UserMappingProfile()
       {
-      CreateMap<UserRequestDto, User >().ReverseMap();
+         CreateMap<UserRequestDto, User>().ReverseMap();
+         CreateMap<LoginRequestDto, User>().ReverseMap();
+
       }
    }
 }

@@ -29,6 +29,20 @@ namespace ConnectEmpleo.API.Controllers
          }
       }
 
+      [HttpPost("login")]
+      public async Task<IActionResult> Login (LoginRequestDto loginResquetDto)
+      {
+         var response = await _userAplication.LoginAsync(loginResquetDto);
+         if (response.IsSuccess)
+         {
+            return Ok(response);
+         }
+         else
+         {
+            return BadRequest(response);
+         }
+      }
+
 
     }
 }

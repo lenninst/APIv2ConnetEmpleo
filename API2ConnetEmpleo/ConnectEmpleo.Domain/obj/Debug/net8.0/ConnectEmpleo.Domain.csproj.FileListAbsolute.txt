@@ -27,6 +27,10 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.genruntimeconfig.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\backkEndV3\APIv3ConnetEmpleo-main\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ref\ConnectEmpleo.Domain.dll
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.deps.json
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.runtimeconfig.json
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.dll
+D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.csproj.AssemblyReference.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.AssemblyInfoInputs.cache
@@ -36,9 +40,5 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofina
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\refint\ConnectEmpleo.Domain.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.pdb
-D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.deps.json
-D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.runtimeconfig.json
-D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.dll
-D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.genruntimeconfig.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyectofinal\backend\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ref\ConnectEmpleo.Domain.dll

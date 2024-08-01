@@ -1,6 +1,7 @@
 ﻿using CnEmpleo.Infrastructure.Persistences.Interfaces;
 using ConnectEmpleo.API.Entities;
 using ConnectEmpleo.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace CnEmpleo.Infrastructure.Persistences.Repositories
 {
@@ -20,7 +21,11 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
       }
 
 
+      public async Task<User> GetUserByEmailAsync(string email)
+      {
+         return await _context.Users.FirstOrDefaultAsync(x => x.Email == email);
+      }
 
-
+     
    }
 }

@@ -30,7 +30,7 @@ namespace ConnetEmpleo.Aplication.Validators
     .Matches("[^a-zA-Z0-9]")
     .WithMessage("La contraseña debe contener al menos un carácter especial.");
 
-         RuleFor (UserRequestDto => UserRequestDto.UserType)
+         RuleFor(UserRequestDto => UserRequestDto.UserType)
             .NotEmpty()
             .WithMessage("El tipo de usuario es requerido")
             .Must(userType => userType == "CANDIDATO" || userType == "EMPRESA")

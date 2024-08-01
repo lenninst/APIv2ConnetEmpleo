@@ -1707,7 +1707,9 @@
           "ConnectEmpleo.Domain": "1.0.0",
           "ConnetEmpleo.Utilities": "1.0.0",
           "FluentValidation": "11.9.2",
-          "FluentValidation.AspNetCore": "11.3.0"
+          "FluentValidation.AspNetCore": "11.3.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.7",
+          "Swashbuckle.AspNetCore": "6.4.0"
         },
         "compile": {
           "bin/placeholder/ConnetEmpleo.Aplication.dll": {}

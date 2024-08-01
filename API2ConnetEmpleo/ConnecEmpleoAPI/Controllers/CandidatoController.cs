@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using ConnetEmpleo.Aplication.Dtos.Request;
 using ConnetEmpleo.Aplication.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConnectEmpleo.API.Controllers
@@ -16,6 +17,7 @@ namespace ConnectEmpleo.API.Controllers
       }
 
       [HttpGet("{id}")]
+      [Authorize]
       public async Task<IActionResult> CandidatoById(int id)
       {
          var response = await _candidatoAplication.GetCandidatoById(id);

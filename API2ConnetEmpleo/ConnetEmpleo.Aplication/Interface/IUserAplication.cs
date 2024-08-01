@@ -6,5 +6,6 @@ namespace ConnetEmpleo.Aplication.Interface
    public interface IUserAplication
    {
       Task<BaseResponse<bool>> AddUserAsync(UserRequestDto userRequestDto);
+      Task<BaseResponse<bool>> LoginAsync(LoginRequestDto loginRequestDto);
    }
 }
