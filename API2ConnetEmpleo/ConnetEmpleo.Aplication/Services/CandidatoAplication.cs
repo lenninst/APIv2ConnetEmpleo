@@ -60,27 +60,28 @@ namespace ConnetEmpleo.Aplication.Services
 
          try
          {
-            var candidato = await _candidatoRepository.GetByIdAsync(id);
+            var candidato = await _candidatoRepository.GetByIdAsyncCandidatoDetails(id);
 
-            if(candidato == null)
+            if (candidato == null)
             {
                response.IsSuccess = false;
                response.Message = "Candidato no encontrado";
+               return response;
             }
+
             response.Data = _mapper.Map<CandidatoResponseDto>(candidato);
             response.IsSuccess = true;
             response.Message = "Candidato encontrado exitosamente";
-
-
          }
          catch (Exception ex)
          {
             response.IsSuccess = false;
-            response.Message = $"Error el obtener candidato: {ex.Message}";
+            response.Message = $"Error al obtener candidato: {ex.Message}";
          }
-         return response;
 
+         return response;
       }
+
 
       public async Task<BaseResponse<CandidatoResponseDto>> UpdateCandidato(int id, CandidatoRequestDto updateDto)
       {

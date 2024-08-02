@@ -17,7 +17,7 @@ namespace ConnectEmpleo.API.Controllers
       }
 
       [HttpGet("{id}")]
-      [Authorize]
+    //  [Authorize]
       public async Task<IActionResult> CandidatoById(int id)
       {
          var response = await _candidatoAplication.GetCandidatoById(id);

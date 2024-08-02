@@ -3,6 +3,7 @@ using CnEmpleo.Infrastructure.Persistences.Interfaces;
 using ConnectEmpleo.Domain.Entities;
 using ConnetEmpleo.Aplication.Commons.Base;
 using ConnetEmpleo.Aplication.Dtos.Request;
+using ConnetEmpleo.Aplication.Dtos.Response;
 using ConnetEmpleo.Aplication.Interface;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
@@ -78,5 +79,36 @@ namespace ConnetEmpleo.Aplication.Services
 
          return response;
       }
+
+
+      public async Task<BaseResponse<List<OfertasEmpleoResponseDto>>> getOfertas()
+      {
+         var response = new BaseResponse<List<OfertasEmpleoResponseDto>>();
+         try
+         {
+            var ofertas = await _ofertaEmpleoRepository.GetAllAsyncWithEmpresa();
+            if (ofertas == null || !ofertas.Any())
+            {
+               response.IsSuccess = false;
+               response.Message = "No hay ofertas de empleo registradas";
+               return response;
+            }
+
+            var ofertasDto = _mapper.Map<List<OfertasEmpleoResponseDto>>(ofertas);
+            response.Data = ofertasDto;
+            response.IsSuccess = true;
+            response.Message = "Ofertas de empleo obtenidas exitosamente";
+         }
+         catch (Exception ex)
+         {
+            response.IsSuccess = false;
+            response.Message = $"Error al procesar solicitud: {ex.Message}";
+         }
+
+         return response;
+      }
+
+
+
    }
 }

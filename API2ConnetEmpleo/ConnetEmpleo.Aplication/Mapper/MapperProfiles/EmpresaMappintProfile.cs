@@ -8,7 +8,8 @@ namespace ConnetEmpleo.Aplication.Mapper.MapperProfiles
    {
       public EmpresaMappintProfile()
       {
-      CreateMap<EmpresaResponseDto, Empresa>();
-      }
+      CreateMap<EmpresaResponseDto, Empresa>().ReverseMap();
+
+     }
    }
 }

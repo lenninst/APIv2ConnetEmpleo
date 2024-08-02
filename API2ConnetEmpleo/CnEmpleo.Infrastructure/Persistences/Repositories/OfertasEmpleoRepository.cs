@@ -1,6 +1,7 @@
 ﻿using CnEmpleo.Infrastructure.Persistences.Interfaces;
 using ConnectEmpleo.API.Entities;
 using ConnectEmpleo.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace CnEmpleo.Infrastructure.Persistences.Repositories
 {
@@ -20,6 +21,13 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
          return await RegisterAsync(ofertasEmpleo);
       }
 
+      public async Task<List<OfertasEmpleo>> GetAllAsyncWithEmpresa()
+      {
+         return await _context.OfertasEmpleos
+             .Include(o => o.EmpresaFkNavigation) // Asegúrate de incluir la empresa
+             .ToListAsync();
+      }
 
-    }
+
+   }
 }

@@ -60,7 +60,21 @@ namespace ConnectEmpleo.API.Controllers
                errors = ex.InnerException?.StackTrace
             });
          }
-      }  
+      }
 
-    }
+      [HttpGet]
+      public async Task<IActionResult> GetAllOfertas()
+      {
+         var response = await _ofertaEmpleoAplication.getOfertas();
+         if (response.IsSuccess)
+         {
+            return Ok(response);
+         }
+         else
+         {
+            return NotFound(response);
+         }
+      }
+
+   }
 }

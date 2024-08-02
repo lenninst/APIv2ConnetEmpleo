@@ -126,6 +126,16 @@
   },
   {
     "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
+    "Method": "GetAllOfertas",
+    "RelativePath": "api/OfertaEmpleo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConnectEmpleo.API.Controllers.OfertaEmpleoController",
     "Method": "AddOfertaEmpleo",
     "RelativePath": "api/OfertaEmpleo/{empresaId}",
     "HttpMethod": "POST",

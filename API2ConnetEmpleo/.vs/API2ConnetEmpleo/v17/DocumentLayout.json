@@ -3,6 +3,134 @@
   "WorkspaceRootPath": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\repositories\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\repositories\\candidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\response\\candidatoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\response\\candidatoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\interface\\iofertaempleoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\interface\\iofertaempleoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\response\\formacionacademicaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\response\\formacionacademicaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\response\\favoritoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\response\\favoritoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\candidatomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\candidatomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connectempleo.domain\\entities\\ofertasempleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|solutionrelative:connectempleo.domain\\entities\\ofertasempleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\request\\ofertaempleorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\request\\ofertaempleorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connectempleo.domain\\entities\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|solutionrelative:connectempleo.domain\\entities\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\repositories\\ofertasempleorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\repositories\\ofertasempleorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\response\\ofertasempleoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\response\\ofertasempleoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\request\\candidatorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\request\\candidatorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\context\\configurations\\formacionacademicaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\context\\configurations\\formacionacademicaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\context\\configurations\\ofertaempleoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\context\\configurations\\ofertaempleoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\dtos\\request\\formacionacademicarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\dtos\\request\\formacionacademicarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connectempleo.domain\\entities\\formacionacademica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34E0ECA-1391-49DF-902B-B4EB12A0BA28}|ConnectEmpleo.Domain\\ConnectEmpleo.Domain.csproj|solutionrelative:connectempleo.domain\\entities\\formacionacademica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\repositories\\formacionacademicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\repositories\\formacionacademicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\context\\configurations\\favoritoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\context\\configurations\\favoritoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\services\\candidatoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\services\\candidatoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\services\\ofertaempleoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\services\\ofertaempleoaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\formacionamappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\formacionamappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\interfaces\\icandidatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\services\\postulacionaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\services\\postulacionaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\ofertaemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\ofertaemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\interfaces\\iofertasempleorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|solutionrelative:cnempleo.infrastructure\\persistences\\interfaces\\iofertasempleorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\empresamappintprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\empresamappintprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\services\\formacionacademicaaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\services\\formacionacademicaaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\controllers\\ofertaempleocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\controllers\\ofertaempleocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\extensions\\shared\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\extensions\\shared\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\extensions\\shared\\jwtextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\mapper\\mapperprofiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\mapper\\mapperprofiles\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connetempleo.aplication\\interface\\iuseraplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D60142F-4ECA-467E-BC6F-D4CE2CCA6A97}|ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj|solutionrelative:connetempleo.aplication\\interface\\iuseraplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\connecempleoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{334816BB-845D-4727-95FA-EBB831E249E9}|ConnecEmpleoAPI\\ConnectEmpleo.API.csproj|solutionrelative:connecempleoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E091412B-7707-406A-9C50-813FDF706575}|CnEmpleo.Infrastructure\\CnEmpleo.Infrastructure.csproj|d:\\1universidadg_semestre_9\\gestion_de_proyectos_software\\parcial 2\\proyectofinal\\backend\\apiv2connetempleo\\api2connetempleo\\cnempleo.infrastructure\\persistences\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,72 +218,332 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorizaOperationFilter.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
-              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
-              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:18:37.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConnectEmpleo.API",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
-              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
-              "RelativeToolTip": "ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T21:26:47.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SwaggerConfiguration.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
-              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
-              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T21:22:09.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "JwtExtensions.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
-              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
-              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Title": "CandidatoMappingProfile.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\CandidatoMappingProfile.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\CandidatoMappingProfile.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\CandidatoMappingProfile.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\CandidatoMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T21:12:24.539Z",
+              "WhenOpened": "2024-08-02T00:16:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoritoResponseDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\FavoritoResponseDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Response\\FavoritoResponseDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\FavoritoResponseDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Response\\FavoritoResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:37:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OfertasEmpleo.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\OfertasEmpleo.cs",
+              "RelativeDocumentMoniker": "ConnectEmpleo.Domain\\Entities\\OfertasEmpleo.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\OfertasEmpleo.cs",
+              "RelativeToolTip": "ConnectEmpleo.Domain\\Entities\\OfertasEmpleo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:27:53.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Program.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Program.cs",
-              "RelativeToolTip": "ConnecEmpleoAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Title": "FormacionAcademicaResponseDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\FormacionAcademicaResponseDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Response\\FormacionAcademicaResponseDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\FormacionAcademicaResponseDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Response\\FormacionAcademicaResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T20:55:27.789Z",
+              "WhenOpened": "2024-08-02T00:25:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOfertaEmpleoAplication.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Interface\\IOfertaEmpleoAplication.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Interface\\IOfertaEmpleoAplication.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Interface\\IOfertaEmpleoAplication.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Interface\\IOfertaEmpleoAplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:22:35.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidatoResponseDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\CandidatoResponseDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Response\\CandidatoResponseDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\CandidatoResponseDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Response\\CandidatoResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:10:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatoRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\CandidatoRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\CandidatoRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\CandidatoRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\CandidatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:14:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:51:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OfertasEmpleoResponseDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\OfertasEmpleoResponseDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Response\\OfertasEmpleoResponseDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Response\\OfertasEmpleoResponseDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Response\\OfertasEmpleoResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:50:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\Favorito.cs",
+              "RelativeDocumentMoniker": "ConnectEmpleo.Domain\\Entities\\Favorito.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\Favorito.cs",
+              "RelativeToolTip": "ConnectEmpleo.Domain\\Entities\\Favorito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:05:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OfertaEmpleoRequestDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\OfertaEmpleoRequestDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Request\\OfertaEmpleoRequestDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\OfertaEmpleoRequestDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Request\\OfertaEmpleoRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:06:16.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OfertasEmpleoRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\OfertasEmpleoRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\OfertasEmpleoRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\OfertasEmpleoRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\OfertasEmpleoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:49:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidatoRequestDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\CandidatoRequestDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Request\\CandidatoRequestDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\CandidatoRequestDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Request\\CandidatoRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:10:45.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormacionAcademicaConfiguration.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FormacionAcademicaConfiguration.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FormacionAcademicaConfiguration.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FormacionAcademicaConfiguration.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FormacionAcademicaConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:25:06.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "OfertaEmpleoConfiguration.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\OfertaEmpleoConfiguration.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\OfertaEmpleoConfiguration.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\OfertaEmpleoConfiguration.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\OfertaEmpleoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:33:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormacionAcademica.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\FormacionAcademica.cs",
+              "RelativeDocumentMoniker": "ConnectEmpleo.Domain\\Entities\\FormacionAcademica.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\FormacionAcademica.cs",
+              "RelativeToolTip": "ConnectEmpleo.Domain\\Entities\\FormacionAcademica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:24:45.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormacionAcademicaRequestDto.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\FormacionAcademicaRequestDto.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Request\\FormacionAcademicaRequestDto.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\FormacionAcademicaRequestDto.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Request\\FormacionAcademicaRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:24:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavoritoConfiguration.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FavoritoConfiguration.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FavoritoConfiguration.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FavoritoConfiguration.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Context\\Configurations\\FavoritoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:32:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormacionAcademicaRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\FormacionAcademicaRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\FormacionAcademicaRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\FormacionAcademicaRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\FormacionAcademicaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:32:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICandidatoRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Interfaces\\ICandidatoRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\ICandidatoRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Interfaces\\ICandidatoRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\ICandidatoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:15:22.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CandidatoAplication.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\CandidatoAplication.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Services\\CandidatoAplication.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\CandidatoAplication.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Services\\CandidatoAplication.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADwv0AAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:11:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormacionAMappingProfile.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\FormacionAMappingProfile.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\FormacionAMappingProfile.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\FormacionAMappingProfile.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\FormacionAMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:06:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OfertaEmpleoAplication.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\OfertaEmpleoAplication.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Services\\OfertaEmpleoAplication.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\OfertaEmpleoAplication.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Services\\OfertaEmpleoAplication.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIA3wFgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:13:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOfertasEmpleoRepository.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IOfertasEmpleoRepository.cs",
+              "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IOfertasEmpleoRepository.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IOfertasEmpleoRepository.cs",
+              "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IOfertasEmpleoRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:53:07.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostulacionAplication.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\PostulacionAplication.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Services\\PostulacionAplication.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\PostulacionAplication.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Services\\PostulacionAplication.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:37:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "UserMappingProfile.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\UserMappingProfile.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\UserMappingProfile.cs",
@@ -180,7 +556,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
+              "Title": "OfertaEMappingProfile.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\OfertaEMappingProfile.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\OfertaEMappingProfile.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\OfertaEMappingProfile.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\OfertaEMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:18:11.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:52:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ConnecEmpleoAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:57:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmpresaMappintProfile.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\EmpresaMappintProfile.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\EmpresaMappintProfile.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\EmpresaMappintProfile.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Mapper\\MapperProfiles\\EmpresaMappintProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:55:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormacionAcademicaAplication.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\FormacionAcademicaAplication.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Services\\FormacionAcademicaAplication.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\FormacionAcademicaAplication.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Services\\FormacionAcademicaAplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:06:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OfertaEmpleoController.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\OfertaEmpleoController.cs",
+              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Controllers\\OfertaEmpleoController.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\OfertaEmpleoController.cs",
+              "RelativeToolTip": "ConnecEmpleoAPI\\Controllers\\OfertaEmpleoController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:21:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthorizaOperationFilter.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\AuthorizaOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:18:37.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConnectEmpleo.API.csproj",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
+              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
+              "RelativeToolTip": "ConnecEmpleoAPI\\ConnectEmpleo.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T21:26:47.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SwaggerConfiguration.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\SwaggerConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:22:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JwtExtensions.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
+              "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
+              "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\JwtExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:12:24.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Program.cs",
+              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Program.cs",
+              "RelativeToolTip": "ConnecEmpleoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:55:27.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "UserAplication.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Services\\UserAplication.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Services\\UserAplication.cs",
@@ -188,12 +703,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Services\\UserAplication.cs",
               "ViewState": "AQIAAGIAAAAAAAAAAAAAAHgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:48:39.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:48:39.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ConnecEmpleoAPI\\appsettings.json",
@@ -201,12 +715,11 @@
               "RelativeToolTip": "ConnecEmpleoAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T20:33:48.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T20:33:48.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 33,
               "Title": "TokenExtensions.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\Shared\\TokenExtensions.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\Shared\\TokenExtensions.cs",
@@ -214,25 +727,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\Shared\\TokenExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:35:38.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:35:38.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CandidatoController.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
-              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
-              "RelativeToolTip": "ConnecEmpleoAPI\\Controllers\\CandidatoController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T21:52:06.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 37,
               "Title": "InjectionsExtencions.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Extensions\\InjectionsExtencions.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Extensions\\InjectionsExtencions.cs",
@@ -240,25 +739,23 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Extensions\\InjectionsExtencions.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAAAD8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T20:52:56.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T20:52:56.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConnetEmpleo.Aplication",
+              "DocumentIndex": 38,
+              "Title": "ConnetEmpleo.Aplication.csproj",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj",
               "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj",
               "RelativeToolTip": "ConnetEmpleo.Aplication\\ConnetEmpleo.Aplication.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T21:29:39.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T21:29:39.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 43,
               "Title": "LoginRequestDtoValidator.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Validators\\LoginRequestDtoValidator.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Validators\\LoginRequestDtoValidator.cs",
@@ -266,12 +763,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Validators\\LoginRequestDtoValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:15:27.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:15:27.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 42,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnectEmpleo.Domain\\Entities\\JwtSettings.cs",
               "RelativeDocumentMoniker": "ConnectEmpleo.Domain\\Entities\\JwtSettings.cs",
@@ -279,25 +775,11 @@
               "RelativeToolTip": "ConnectEmpleo.Domain\\Entities\\JwtSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:22:28.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:22:28.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ConnecEmpleoAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnecEmpleoAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ConnecEmpleoAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:57:08.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 44,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Mapper\\MappingProfile.cs",
@@ -305,12 +787,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Mapper\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:06:10.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:06:10.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 45,
               "Title": "IUserAplication.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Interface\\IUserAplication.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Interface\\IUserAplication.cs",
@@ -318,12 +799,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Interface\\IUserAplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:48:27.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:48:27.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 47,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IUserRepository.cs",
@@ -331,12 +811,11 @@
               "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:45:41.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:45:41.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 46,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Persistences\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\UserRepository.cs",
@@ -344,12 +823,11 @@
               "RelativeToolTip": "CnEmpleo.Infrastructure\\Persistences\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvxsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:39:14.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:39:14.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 48,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\ConnetEmpleo.Aplication\\Dtos\\Request\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "ConnetEmpleo.Aplication\\Dtos\\Request\\LoginRequestDto.cs",
@@ -357,12 +835,11 @@
               "RelativeToolTip": "ConnetEmpleo.Aplication\\Dtos\\Request\\LoginRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:36:10.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:36:10.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 49,
               "Title": "InjectionExtensions.cs",
               "DocumentMoniker": "D:\\1Universidadg_semestre_9\\Gestion_de_proyectos_software\\Parcial 2\\Proyectofinal\\backend\\APIv2ConnetEmpleo\\API2ConnetEmpleo\\CnEmpleo.Infrastructure\\Extensions\\InjectionExtensions.cs",
               "RelativeDocumentMoniker": "CnEmpleo.Infrastructure\\Extensions\\InjectionExtensions.cs",
@@ -370,8 +847,7 @@
               "RelativeToolTip": "CnEmpleo.Infrastructure\\Extensions\\InjectionExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T00:59:40.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T00:59:40.834Z"
             }
           ]
         }

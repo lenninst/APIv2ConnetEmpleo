@@ -19,7 +19,9 @@ namespace CnEmpleo.Infrastructure.Persistences.Context.Configurations
              .HasMaxLength(600)
              .HasColumnName("descripcion");
          builder.Property(e => e.EmpresaFk).HasColumnName("EmpresaFK");
-         builder.Property(e => e.Fechapublicacion).HasColumnName("fechapublicacion");
+         builder.Property(e => e.Fechapublicacion)
+             .HasMaxLength(50) 
+             .HasColumnName("fechapublicacion");
          builder.Property(e => e.Modalidad)
              .HasMaxLength(45)
              .HasColumnName("modalidad");

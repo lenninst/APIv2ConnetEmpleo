@@ -27,8 +27,17 @@ namespace CnEmpleo.Infrastructure.Persistences.Repositories
             .FirstOrDefaultAsync(c => c.Id == candidato.Id);
       }
 
-
-
+      public async Task<Candidato> GetByIdAsyncCandidatoDetails(int id)
+      {
+         return await _context.Candidatos
+             .Include(c => c.ExperienciaLaborals)
+             .Include(c => c.Favoritos)
+                 .ThenInclude(f => f.OfertasEmpleosFkNavigation)  
+             .Include(c => c.FormacionAcademicas)
+             .Include(c => c.Postulaciones)
+                 .ThenInclude(p => p.OfertasEmpleosFkNavigation) 
+             .SingleOrDefaultAsync(c => c.Id == id);
+      }
    }
 }
 
